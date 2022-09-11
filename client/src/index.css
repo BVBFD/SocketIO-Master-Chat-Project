@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --login-signin-fontSize: 1.4rem;
+  --login-signin-color: white;
+  --login-signin-bgColor: darkGray;
+  --login-signin-btnColor: gray;
+  --login-signin-wrapperShadow: black;
+}
